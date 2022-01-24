@@ -4,7 +4,7 @@ class DequeElem:
         self.data = data
         self.prev_elem = prev_elem
         self.next_elem = next_elem
-
+#Привет никитос как сам?
 
 class Deque:
 
